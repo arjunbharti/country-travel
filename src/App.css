@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+
+
+.flagIcon {
+  display: inline;
+  padding: 1rem;
+  cursor: pointer;
+}
